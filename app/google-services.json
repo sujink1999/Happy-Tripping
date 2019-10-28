@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "651446815949",
+    "firebase_url": "https://happytripping-c0d27.firebaseio.com",
+    "project_id": "happytripping-c0d27",
+    "storage_bucket": "happytripping-c0d27.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:651446815949:android:fda2c45047315fd212ed84",
+        "android_client_info": {
+          "package_name": "com.sujin.happytripping"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "651446815949-9mmr3v3q1qus3hhtt5m9feutq78ana14.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVaCrXMpIVapR3YQ34D0Zv5hUdOR3hD98"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "651446815949-9mmr3v3q1qus3hhtt5m9feutq78ana14.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

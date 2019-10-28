@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/addArticleName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/fui_auth_method_button_drawablePadding"
+        android:text="textview"
+        android:textSize="24sp" />
+
+    <TextView
+        android:id="@+id/authorName"
+        android:layout_width="78dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/fui_auth_method_button_drawablePadding"
+        android:text="textview"
+        android:textSize="15sp" />
+
+    <TextView
+        android:id="@+id/locationName"
+        android:layout_width="80dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/fui_auth_method_button_drawablePadding"
+        android:text="textview"
+        android:textSize="15sp" />
+
+</RelativeLayout>
